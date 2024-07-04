@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramnau
 - 👀 I’m interested in learning new coding methods und languages
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning node.js, flask and sqlalchemy
 
 
 <!---
